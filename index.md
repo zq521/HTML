@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+## 轩韩子
 
-You can use the [editor on GitHub](https://github.com/zq521/HTML/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+##人定胜天
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zq521/HTML/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#“人心安定高于一切”或“人心安定比什么都重要”。人心安定，于个人，可以创造内心的和谐，获得身心的和谐健康发展；于家庭，可以做到家庭和睦、长幼有序、孝悌传承，和谐发展。于社会，可以促进社会和谐，忠、信、礼、义具备，知廉耻，知荣辱，孝亲尊师，传承良好的道德风尚，促进社会稳定、健康、和谐发展。因此，人心安定，是社会和谐的基础。
